@@ -1,0 +1,17 @@
+names:
+- Hardhat
+- Person
+- Safety_Boots
+- Safety_Gloves
+- Safety_Mask
+- Safety_Vest
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: ppe-hehno
+  url: https://universe.roboflow.com/vaibhav-jbwnp/ppe-hehno/dataset/1
+  version: 1
+  workspace: vaibhav-jbwnp
+test: ../test/images
+train: ../train/images
+val: ../valid/images
