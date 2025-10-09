@@ -1,0 +1,15 @@
+path: ''
+train:
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-1/train/images
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-2/train/images
+val:
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-1/val/images
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-2/val/images
+nc: 3
+names:
+- helmet
+- gloves
+- boots
+test:
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-1/test/images
+- /home/ym/capstone/sw_hybrid/PPE_yolo/filtered_PPE-2/test/images
