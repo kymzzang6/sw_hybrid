@@ -16,8 +16,11 @@
 
 ## 데이터셋 이름 보는 법
 com12 = PPE1+PPE2 합친 데이터셋 한번에 학습시킴
+
 ft12 = finetuing으로 PPE1 -> PPE2 순서로 학습시킴
+
 ppe1 = 그냥 PPE1만 학습시킴
+
 v11 = yolo11n 사용함
 
 
