@@ -3,6 +3,6 @@
 **/valid/
 **/test/
 **/runs/
-PPE_yolo/PPE-*/
+PPE_yolo/dataset/**/
 **/final_dataset
 **/filtered*

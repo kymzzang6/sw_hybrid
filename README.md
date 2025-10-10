@@ -11,7 +11,7 @@
 ```cd sw_hybrid```
 ### 2. 데이터셋 배치
 1. Google Drive에서 `PPE-1.zip`, `PPE-2.zip` ... 다운로드
-2. 압축 해제 후 `sw_hybrid/PPE_yolo` 폴더에 넣기
+2. 압축 해제 후 `sw_hybrid/PPE_yolo/dataset` 폴더에 넣기
 
 
 ## 데이터셋 이름 보는 법
