@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # 저장할 디렉토리 생성
-save_dir = 'PPE_yolo/dataset/custom_dataset/custom'
+save_dir = 'dataset/custom_dataset/custom'
 os.makedirs(save_dir, exist_ok=True)
 
 # 웹캠 열기
