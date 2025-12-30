@@ -3,8 +3,8 @@ import cv2
 import time
 
 # ====== 사용자 설정 ======
-model_path = 'yolo_weights/11s_pose/yolo11s-pose.pt'  # .pt 파일 경로 (파인튜닝한 모델 경로로 수정)
-webcam_index = 2         # 웹캠 인덱스 (0, 1, 2, ...)
+model_path = '/home/ym/sw_ws/sw_hybrid/PPE_yolo/yolo_weights/ft123_11s/best.pt'  # .pt 파일 경로 (파인튜닝한 모델 경로로 수정)
+webcam_index = 1         # 웹캠 인덱스 (0, 1, 2, ...)
 
 # ====== 모델 로드 ======
 try:
