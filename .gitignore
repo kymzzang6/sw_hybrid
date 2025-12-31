@@ -6,3 +6,7 @@
 PPE_yolo/dataset/**/
 **/final_dataset
 **/filtered*
+/build
+/install
+/log
+/dataset/
