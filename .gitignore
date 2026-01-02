@@ -9,4 +9,4 @@ PPE_yolo/dataset/**/
 /build
 /install
 /log
-/dataset/
+PPE_yolo/merged_dataset/**/

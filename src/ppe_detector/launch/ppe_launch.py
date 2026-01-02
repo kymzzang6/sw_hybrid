@@ -12,7 +12,7 @@ def generate_launch_description():
     # YOLO 모델 경로
     model_path_arg = DeclareLaunchArgument(
         'model_path',
-        default_value='/home/ym/sw_ws/src/sw_hybrid/PPE_yolo/jjin_final_model/yolo11n_model/merged_1/weights/best.pt',
+        default_value='/home/ym/sw_ws/src/sw_hybrid/PPE_yolo/jjin_final_model/yolo11n_model/merged_3/weights/best.pt',
         description='Absolute path to the custom YOLO model file'
     )
     

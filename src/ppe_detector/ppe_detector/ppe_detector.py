@@ -14,7 +14,7 @@ class YoloDetector(Node):
         super().__init__('yolo_detector_node')
         
         # 1. 파라미터 설정
-        self.declare_parameter('model_path', '/home/ym/sw_ws/src/sw_hybrid/PPE_yolo/jjin_final_model/yolo11n_model/merged_1/weights/best.pt')
+        self.declare_parameter('model_path', '/home/ym/sw_ws/src/sw_hybrid/PPE_yolo/jjin_final_model/yolo11n_model/merged_3/weights/best.pt')
         self.declare_parameter('conf_thres', 0.5)
         model_path = self.get_parameter('model_path').value
         self.conf_thres = self.get_parameter('conf_thres').value
